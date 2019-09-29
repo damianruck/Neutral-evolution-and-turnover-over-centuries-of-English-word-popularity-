@@ -1,6 +1,6 @@
 # Neutral-evolution-and-turnover-over-centuries-of-English-word-popularity
 
-Python code to reprepduce main results in the Advances in Complex Systems paper, "Neutral evolution and turnover over centuries of English word popularit" 
+Python code to reprepduce main results in the Advances in Complex Systems paper, "Neutral evolution and turnover over centuries of English word popularity" 
 
 
 Scipts for the following:
