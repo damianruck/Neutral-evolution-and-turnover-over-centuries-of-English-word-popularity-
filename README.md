@@ -2,7 +2,7 @@
 
 Python code to reprepduce main results in the Advances in Complex Systems paper, "Neutral evolution and turnover over centuries of English word popularity" 
 
-** python 2 code **
+**python 2 code**
 
 If you make us of this code, please cite: Ruck D.J., Bentley R.A., Acerbi A., Garnett P. and Hruschka D.J. (2017). Role of neutral evolution in word turnover during centuries of English Word popularity. Advances in Complex Systems,20(6).
 
